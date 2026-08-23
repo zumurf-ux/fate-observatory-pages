@@ -1,3 +1,2 @@
-:HL["/fate-observatory-pages/_next/static/chunks/12xq30yzqs8ne.css","style"]
-:HL["/fate-observatory-pages/_next/static/chunks/0jq2d0iyd5cx0.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yxawDDiOUjikeQPVqBp64"}
+:HL["/fate-observatory-pages/_next/static/chunks/0-1ma4a.m5j91.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"2R4y_-6AUR6-q3Eh-ggNc"}
