@@ -3,7 +3,7 @@
 3:I[31713,["/fate-observatory-pages/_next/static/chunks/0eog50~01kpo8.js","/fate-observatory-pages/_next/static/chunks/17f2ht9wo-phb.js","/fate-observatory-pages/_next/static/chunks/08msy22hqiuhe.js"],"default"]
 6:I[6391,["/fate-observatory-pages/_next/static/chunks/0eog50~01kpo8.js","/fate-observatory-pages/_next/static/chunks/17f2ht9wo-phb.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fate-observatory-pages/_next/static/chunks/08msy22hqiuhe.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qTJgxRpHGVtO4d_c7hBL-"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fate-observatory-pages/_next/static/chunks/08msy22hqiuhe.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3GJ10v_dYKHe0bBVNMiS8"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
