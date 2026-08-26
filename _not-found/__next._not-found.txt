@@ -2,4 +2,4 @@
 2:I[39011,["/fate-observatory-pages/_next/static/chunks/0eog50~01kpo8.js","/fate-observatory-pages/_next/static/chunks/17f2ht9wo-phb.js"],"default"]
 3:I[37771,["/fate-observatory-pages/_next/static/chunks/0eog50~01kpo8.js","/fate-observatory-pages/_next/static/chunks/17f2ht9wo-phb.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"0MmNifHBRIleY53NOiuJl"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"0MNI6rgEc114UgIT4hCqd"}
